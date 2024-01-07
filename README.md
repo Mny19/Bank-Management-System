@@ -10,7 +10,3 @@ It is a simple Bank Management System implemented in Python using object-oriente
 - Close an account
 - Modify account details
 
-## How to Use
-
-1. Choose options from the main menu by entering the corresponding number.
-2. Follow the prompts to perform various banking operations.
