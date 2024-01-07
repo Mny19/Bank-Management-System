@@ -9,4 +9,3 @@ It is a simple Bank Management System implemented in Python using object-oriente
 - Display a list of all account holders
 - Close an account
 - Modify account details
-
